@@ -2,10 +2,10 @@
 Ghost Theme for KN6Q.org (forked from Odin and Casper)
 ![Ghost version](https://img.shields.io/badge/Ghost-1.x.x-brightgreen.svg?style=flat-square)
 
-**KN6Q.org Theme** is a very simple fork of the Ghost theme [Odin](https://github.com/h4t0n/odin) , which itself was a fork from the old version of Casper (pre-Casper 2.0).
+**KN6Q.org Theme** is a very simple fork of the Ghost theme [Odin](https://github.com/h4t0n/odin), which itself was a fork from the old version of [Casper](https://github.com/TryGhost/Casper/) (before Casper 2.0).
 
 ## Intro
-The current release version of Odin (1.3.0) is not fully compatable with Ghost 1.x.x, and I believe the author is probably no longer supporting it (and the demo webpage is down).  This fork makes the theme run clean (no errors) in the theme activation of Ghost 1.17.0+ (probably all versions of Ghost 1.x.x).  Not sure what if any problems the activations errors cause when using Odin 1.3.0, but this avoids any issues.  
+The current release version of Odin (1.3.0) is not fully compatable with Ghost 1.x.x, and I believe the author is probably no longer supporting it (and the demo webpage is down).  This fork fixes the theme to run clean (no errors) in the theme activation of Ghost 1.17.0+ (probably all versions of Ghost 1.x.x).  Not sure what if any problems the activations errors cause when using Odin 1.3.0, but this avoids any issues.  
 
 Also, I depricated the Odin favicons in favor of using the favicons now built into the Ghost platform. 
 
@@ -14,6 +14,7 @@ Also, I depricated the Odin favicons in favor of using the favicons now built in
 * Works with Ghost 1.x+
 * Fully responsive (for mobiles and tablets)
 * Home Page Navigation Menu Buttons
+* Uses the built-in Ghost favicon function (Publication Icon in General Settings) rather the generating manually.
 * Google Analytics (easily configurable by code injection in the admin area)
 * [Disqus](https://disqus.com) comments (easily configurable by code injection in the admin area)
 * [Prism](http://prismjs.com/) Syntax Highlight (all languages supported)
