@@ -52,7 +52,7 @@ var social_link = {
 
 // Example2: squared social network icons
 var social_link = {
-    'twitter-square': 'https://twitter.com/h4t0n',
+    'twitter-square': 'https://twitter.com/twkisner',
     'linkedin-square': 'https://www.linkedin.com/in/kisner/',
     'github-square': 'https://github.com/twkisner',
     'rss':'https://kn6q.org/rss/'
