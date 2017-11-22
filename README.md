@@ -1,4 +1,4 @@
-# KN6Q.org
+# KN6Q.org Theme
 Ghost Theme for KN6Q.org (forked from Odin and Casper)
 ![Ghost version](https://img.shields.io/badge/Ghost-1.x.x-brightgreen.svg?style=flat-square)
 
@@ -68,8 +68,11 @@ var social_link = {
 ## Copyright & License
 
 Released under the MIT License. 
+
 Copyright (c) 2017 [Thomas Kisner](https://www.linkedin.com/in/kisner/) 
+
 Copyright (c) 2016 [Andrea Tarquini](https://blog.h4t0n.com) aka [@h4ton](https://twitter.com/h4t0n)  (for Odin theme portions of code)
+
 Copyright (c) 2013-2015 Ghost Foundation (for Casper theme substantial portions of code)
 
 
