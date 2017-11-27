@@ -4,7 +4,7 @@
     "demo": "https://kn6q.org",
     "version": "1.4.0",
     "engines": {
-        "ghost": ">=0.9.0 <1.0.0"
+        "ghost": ">=1.2.0"
     },
     "license": "MIT",
  
