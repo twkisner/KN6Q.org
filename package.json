@@ -2,9 +2,9 @@
     "name": "kn6q",
     "description": "The default theme for KN6Q.org",
     "demo": "https://kn6q.org",
-    "version": "1.4.0",
+    "version": "1.5.1",
     "engines": {
-        "ghost": ">=1.2.0"
+        "ghost": ">=2.0.0"
     },
     "license": "MIT",
  
@@ -25,7 +25,8 @@
     },
 	"keywords": [
         "ghost",
-        "theme"
+        "theme",
+        "ghost-theme"
     ],
     "repository": {
         "type": "git",

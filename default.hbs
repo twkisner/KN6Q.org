@@ -26,6 +26,14 @@
 </head>
 <body class="{{body_class}}">
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=781352078732285';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
     <div class="site-wrapper">
 
@@ -34,7 +42,7 @@
 
         <footer class="site-footer clearfix">
             <section class="copyright"><a href="{{@blog.url}}">{{@blog.title}}</a> &copy; {{date format="YYYY"}}</section>
-            <section class="poweredby"><a href="https://github.com/twkisner/KN6Q.org">KN6Q Theme</a> created by <a href="https://it.linkedin.com/in/kisner">Tom Kisner</a>. Proudly published with <a href="https://ghost.org">Ghost</a>. </section>
+            <section class="poweredby"><a href="https://github.com/twkisner/KN6Q.org">KN6Q Theme</a> created by <a href="https://it.linkedin.com/in/kisner">Tom Kisner</a>. Published with <a href="https://ghost.org">Ghost</a>. </section>
         </footer>
 
     </div>
