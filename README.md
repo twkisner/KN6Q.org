@@ -1,15 +1,15 @@
 # KN6Q.org Theme
 Ghost Theme for KN6Q.org (forked from Odin and Casper)
-![Ghost version](https://img.shields.io/badge/Ghost-2.x.x-brightgreen.svg?style=flat-square)
+![Ghost version](https://img.shields.io/badge/Ghost-2.x-brightgreen.svg?style=flat-square)
 
-**KN6Q.org Theme** is a very simple fork of the Ghost theme [Odin](https://github.com/h4t0n/odin), which itself was a fork from the old version of [Casper](https://github.com/TryGhost/Casper/) (before Casper 2.0).
+**KN6Q.org Theme** is a fork of the Ghost theme [Odin](https://github.com/h4t0n/odin), which itself was a fork from the old version of [Casper](https://github.com/TryGhost/Casper/) (before Casper 2.0).
 
 ## Intro
-The release version of Odin (1.3.0) was not fully compatable with Ghost 1.x.x, and I believed the author was no longer supporting it (update--the author accepted some pull requests from other contributers updating it to 2.0 support).  This fork was orginally to fix the theme to run clean (no errors) in the theme activation of Ghost 1.x.x (Version 1.4x).
+This fork was orginally to fix the Odin theme to run clean (no errors) in the theme activation of Ghost 1.0+. (Version 1.4.x), because the author wasn't actively supporting it.  While Odin has now been updated (from other contributers) to be "compatable" with Ghost 2.0, it was the bare minimum to run clean in gscan, and some features are still broken.
 
-Version 1.5.x fixes the theme to work with Ghost 2.x.x.  Please use 1.4.x if you are running Ghost 1.x.x.
+I depricated the Odin favicons in favor of using the favicons now built into the Ghost platform in 1.x, and merged in some things from the latest 1.4 version of "old" Casper, as well as implemented features from Ghost 2.0 like multiple author support.
 
-Also, I depricated the Odin favicons in favor of using the favicons now built into the Ghost platform, and merged in some things from the latest 1.4 version of "old" Casper.
+Version 1.5.x fixes the theme to work with Ghost 2.0+.  Please use 1.4.x if you are running Ghost 1.0+.
 
 ![gscan results](https://github.com/twkisner/KN6Q.org/blob/master/gscan.JPG)
 
