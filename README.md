@@ -5,11 +5,11 @@ Ghost Theme for KN6Q.org (forked from Odin and Casper)
 **KN6Q.org Theme** is a very simple fork of the Ghost theme [Odin](https://github.com/h4t0n/odin), which itself was a fork from the old version of [Casper](https://github.com/TryGhost/Casper/) (before Casper 2.0).
 
 ## Intro
-The current release version of Odin (1.3.0) is not fully compatable with Ghost 1.x.x, and I believe the author is probably no longer supporting it (and the demo webpage is down).  This fork was orginally to fix the theme to run clean (no errors) in the theme activation of Ghost 1.x.x (Version 1.4x).
+The release version of Odin (1.3.0) was not fully compatable with Ghost 1.x.x, and I believed the author was no longer supporting it (update--the author accepted some pull requests from other contributers updating it to 2.0 support).  This fork was orginally to fix the theme to run clean (no errors) in the theme activation of Ghost 1.x.x (Version 1.4x).
 
 Version 1.5 fixes the theme to work with Ghost 2.x.x.  Please use 1.4.x if you are running Ghost 1.x.x.
 
-Also, I depricated the Odin favicons in favor of using the favicons now built into the Ghost platform. 
+Also, I depricated the Odin favicons in favor of using the favicons now built into the Ghost platform, and merged in some things from the latest 1.4 version of "old" Casper.
 
 ### Features
 * Old Casper (1.4 and below) minimalistic and clean style (without right side menu)
