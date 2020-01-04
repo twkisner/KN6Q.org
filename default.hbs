@@ -41,7 +41,7 @@
         {{{body}}}
 
         <footer class="site-footer clearfix">
-            <section class="copyright"><a href="{{@blog.url}}">{{@blog.title}}</a> &copy; {{date format="YYYY"}}</section>
+            <section class="copyright"><a href="{{@site.url}}">{{@site.title}}</a> &copy; {{date format="YYYY"}}</section>
             <section class="poweredby"><a href="https://github.com/twkisner/KN6Q.org">KN6Q Theme</a> created by <a href="https://it.linkedin.com/in/kisner">Tom Kisner</a>. </section>
         </footer>
 
@@ -65,7 +65,7 @@
             $('.rrssb-buttons').rrssb({
                 // required:
                 title: '{{post.title}}',
-                url: '{{@blog.url}}{{post.url}}',
+                url: '{{@site.url}}{{post.url}}',
 
                 // optional:
                  description: '{{post.title}}',
