@@ -1,6 +1,6 @@
 # KN6Q.org Theme
 Ghost Theme for KN6Q.org (forked from Odin and Casper)
-![Ghost version](https://img.shields.io/badge/Ghost-2.x-brightgreen.svg?style=flat-square)
+![Ghost version](https://img.shields.io/badge/Ghost-3.x-brightgreen.svg?style=flat-square)
 
 **KN6Q.org Theme** is a fork of the Ghost theme [Odin](https://github.com/h4t0n/odin), which itself was a fork from the old version of [Casper](https://github.com/TryGhost/Casper/) (before Casper 2.0).
 
@@ -9,13 +9,13 @@ This fork was orginally to fix the Odin theme to run clean (no errors) in the th
 
 I depricated the Odin favicons in favor of using the favicons now built into the Ghost platform in 1.x, and merged in some things from the latest 1.4 version of "old" Casper, as well as implemented features from Ghost 2.0 like multiple author support.
 
-Version 1.5.x fixes the theme to work with Ghost 2.0+.  Please use 1.4.x if you are running Ghost 1.0+.
+Version 1.6.x fixes the theme to work with Ghost 3.0+. Version 1.5.x fixes the theme to work with Ghost 2.0+.  Version 1.4.x is compatable with Ghost 1.0+.
 
 ![gscan results](https://github.com/twkisner/KN6Q.org/blob/master/gscan.JPG)
 
 ### Features
-* Old Casper (1.4 and below) minimalistic and clean style (without right side menu)
-* Works with Ghost 2.0 and 1.0
+* Old Casper (1.5 and below) minimalistic and clean style (without right side menu)
+* Works with Ghost 3.0, 2.0 and 1.0
 * Fully responsive (for mobiles and tablets)
 * Home Page Navigation Menu Buttons
 * Uses the built-in Ghost favicon function (Publication Icon in General Settings) rather the generating manually.
@@ -74,7 +74,7 @@ var social_link = {
 
 Released under the MIT License. 
 
-Copyright (c) 2017-2018 [Thomas Kisner](https://www.linkedin.com/in/kisner/) 
+Copyright (c) 2017-2020 [Thomas Kisner](https://www.linkedin.com/in/kisner/) 
 
 Copyright (c) 2016 [Andrea Tarquini](https://blog.h4t0n.com) aka [@h4ton](https://twitter.com/h4t0n)  (for Odin theme portions of code)
 
