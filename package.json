@@ -2,7 +2,7 @@
     "name": "kn6q",
     "description": "The default theme for KN6Q.org",
     "demo": "https://kn6q.org",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "engines": {
       
        "ghost-api": "v3"
